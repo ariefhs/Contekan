@@ -1,0 +1,8 @@
+{
+  "judul": "Trapesium",
+  "deskripsi": "Trapesium adalah bangun segiempat dengan sepasang sisi berhadapan sejajar.",
+  "sifat": " - Tiap pasang sudut yang sisinya sejajar adalah 180 derajat.",
+  "luas": "(1/2) x luas sisi sejajar x tinggi",
+  "keliling":"sisi a + sisi b + sisi c + sisi d",
+  "ket":"-"
+}

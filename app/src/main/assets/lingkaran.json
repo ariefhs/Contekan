@@ -1,0 +1,8 @@
+{
+  "judul": "Lingkaran",
+  "deskripsi": "Lingkaran merupakan kurva tertutup sederhana beraturan.",
+  "sifat": "- Jumlah derajat lingkaran sebesar 360 derajat.\n - Lingkaran mempunyai 1 titik pusat.</br> - Mempunyai simetri lipat dan simetri putar yang jumlahnya tidak terhingga.",
+  "luas": "Phi x d",
+  "keliling": "Phi x (r x r)",
+  "ket": "Phi = 3.14 atau 22/7, d = diameter, r = jari-jari (1/2 x dimeter)"
+}

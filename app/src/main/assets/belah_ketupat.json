@@ -1,0 +1,8 @@
+{
+  "judul": "Belah Ketupat",
+  "deskripsi": "Belah ketupat adalah bangun datar dua dimensi yang dibentuk oleh empat rusuk yang sama panjang dan dan memiliki dua pasang sudut bukan siku-siku yang masing-masing sama besar dengan sudut di hadapannya.",
+  "sifat": " - Mempunyai 2 simetri lipat.\n - Mempunyai 2 simeteri putar.\n - Mempunyai 4 titik sudut.\n - Sudut yang berhadapan besarnya sama.\n - Sisinya tidak tegak lurus.\n - Mempunyai 2 diagonal yang berbeda panjangnya.\n",
+  "luas": "4 x sisi",
+  "keliling":"(1/2) x d1 x d2",
+  "ket":"d1 = diagonal 1, d2 = diagonal 2"
+}

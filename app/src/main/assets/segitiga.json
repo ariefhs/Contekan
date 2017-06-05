@@ -1,0 +1,8 @@
+{
+  "judul": "Segiitga",
+  "deskripsi": "Segitiga adalah bangun geometri yang dibuat dari tiga sisi yang berupa garis lurus dan tiga sudut.",
+  "sifat": "- Jumlah sudut pada segitiga besarnya 180 derajat.",
+  "luas": "(1/2) x a x t",
+  "keliling":" a + b + c",
+  "ket":"a, b, c = sisi-sisi segitiga, a = alas, t = tinggi"
+}

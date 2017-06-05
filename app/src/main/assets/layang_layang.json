@@ -1,0 +1,8 @@
+{
+  "judul": "Layang-Layang",
+  "deskripsi": "Layang-layang adalah bangun geometri berbentuk segiempat yang terbentuk dari dua segitiga sama kaki yang alasnya berhimpitan.",
+  "sifat": "- Mempunyai 1 simetri lipat. Tidak mempunyai simetri putar.\n - Mempunyai 4 sisi sepasang-sepasang yang sama panjang.\n - Mempunyai 4 buah sudut.\n - Sepasang sudut yang berhadapan sama besar.\n - Mempunyai 2 diagonal berbeda dan tegak lurus.\n",
+  "luas": "(1/2) x d1 x d2",
+  "keliling": "(2 x s1) + (2 x s2)",
+  "ket": "d1 = diagonal 1, d2 = diagonal 2, s1 = sisi 1, s2 = sisi 2"
+}

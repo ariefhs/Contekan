@@ -1,0 +1,8 @@
+{
+  "judul": "Jajar Genjang",
+  "deskripsi": "Jajaran Genjang adalah bangun datar dua dimensi yang dibentuk oleh dua pasang rusuk yang masing-masing sama panjang dan sejajar dengan pasangannya, dan memiliki dua pasang sudut bukan siku-siku yang masing-masing sama besar dengan sudut di hadapannya.",
+  "sifat": "- Tidak mempunyai simetri lipat dan simetri putar.\n - Sisi yang berhadapan sejajar dan sama panjang.\n - Dua sisi lainnya tidak saling tegak lurus.\n - Mempunyai 4 sudut, 2 sudut berpasangan dan berhadapan.\n - Sudut yang saling berdekatan besarnya 180 derajat.\n - Mempunyai 2 diagonal yang tidak sama panjang.\n",
+  "luas": "alas x tinggi",
+  "keliling":"(2 x alas) + (2 x sisi miring)",
+  "ket":"-"
+}

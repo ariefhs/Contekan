@@ -1,0 +1,8 @@
+{
+  "judul": "Persegi Panjang",
+  "deskripsi": "Persegi panjang adalah bangun datar dua dimensi yang dibentuk oleh dua pasang rusuk yang masing-masing sama panjang dan sejajar dengan pasangannya, dan memiliki empat buah sudut siku-siku.",
+  "sifat": " - Sisi yang berhadapan sama panjang dan sejajar.\n  - Sisi-sisi persegi panjang saling tegak lurus\n  - Mempunyai 4 sudut siku-siku 90 derajat.\n  - Mempunyai 2 diagonal yang sama panjang.\n  - Mempunyai 2 simetri lipat.\n  - Mempunyai 2 simetri putar.\n ",
+  "luas": "p x l",
+  "keliling":"(2 x p) + (2 x l)",
+  "ket":"p = panjang, l = lebar"
+}

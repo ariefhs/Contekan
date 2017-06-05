@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lupawktu.contekan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.lupawktu.contekan.MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.lupawktu.contekan.BangunDatarActivity"
+            android:screenOrientation="portrait"
+            android:label="Bangun Datar"/>
+        <activity android:name=".BangunDatar.Persegi.PersegiActivity"
+            android:label="Hitung Persegi"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunDatar.PersegiPanjang.PersegiPanjangActivity"
+            android:label="Hitung Persegi Panjang"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunDatar.Segitiga.SegitigaActivity"
+            android:label="Hitung Segitiga"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunDatar.Trapesium.TrapesiumActivity"
+            android:label="Hitung Trapesium"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunDatar.Lingkaran.LingkaranActivity"
+            android:label="Hitung Lingkaran"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunDatar.LayangLayang.LayangActivity"
+            android:label="Hitung Layang-Layang"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunDatar.JajarGenjang.JajarGenjangActivity"
+            android:label="Hitung Jajar Genjang"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunDatar.BelahKetupat.BelahKetupatActivity"
+            android:label="Hitung Belah Ketupat"
+            android:screenOrientation="portrait"/>
+
+        <activity android:name=".BangunRuangActivity"
+            android:label="Bangun Ruang"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunRuang.Kubus.KubusActivity"
+            android:label="Hitung Kubus"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunRuang.Balok.BalokActivity"
+            android:label="Hitung Balok"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunRuang.Bola.BolaActivity"
+            android:label="Hitung Bola"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunRuang.Kerucut.KerucutActivity"
+            android:label="Hitung Kerucut"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunRuang.Prisma.PrismaActivity"
+            android:label="Hitung Prisma"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunRuang.Limas.LimasActivity"
+            android:label="Hitung Limas"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".BangunRuang.Tabung.TabungActivity"
+            android:label="Hitung Tabung"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>
